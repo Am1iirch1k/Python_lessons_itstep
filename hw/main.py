@@ -61,3 +61,5 @@ def deactive_player(player_id):
 print(deactive_player(2))
 print(deactive_player(12))
 print(deactive_player(8))
+
+
