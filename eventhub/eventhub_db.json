@@ -1,0 +1,26 @@
+{
+  "next_event_id": 3,
+  "events": [
+    {
+      "id": 1,
+      "title": "ночь настольных игр",
+      "categoty": "игры",
+      "date": "2026-10-18",
+      "price": 0,
+      "capacity": 10,
+      "participants": [
+        "Ali",
+        "Dastan"
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Football",
+      "categoty": "командная игра",
+      "date": "2022-11-29",
+      "price": 2000,
+      "capacity": 200,
+      "participants": []
+    }
+  ]
+}
